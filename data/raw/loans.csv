@@ -1,0 +1,5 @@
+loan_id,farmer_id,group_id,parish_id,district_id,crop_type,loan_amount,interest_rate,total_repayable,disbursement_date,expected_repayment_date1,expected_repayment_date2,repayment_amount1,repayment_date1,repayment_amount2,repayment_date2,total_repaid,outstanding_balance,loan_status,last_updated
+L001,F001,G001,P001,D001,Maize,500000,0.05,525000,2023-04-15,2023-07-15,2023-10-15,262500,2023-07-20,262500,2023-10-18,525000,0,Repaid,2023-10-18
+L002,F002,G001,P001,D001,Beans,400000,0.05,420000,2023-04-20,2023-07-20,2023-10-20,210000,2023-07-25,210000,2023-10-22,420000,0,Repaid,2023-10-22
+L003,F003,G001,P001,D001,Coffee,600000,0.05,630000,2023-05-01,2023-08-01,2023-11-01,315000,2023-08-05,315000,0,315000,315000,Ongoing,2023-10-30
+L004,F004,G002,P001,D001,Maize,450000,0.05,472500,2023-05-10,2023-08-10,2023-11-10,236250,2023-08-15,236250,0,236250,236250,Ongoing,2023-10-30

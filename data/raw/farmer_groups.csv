@@ -1,0 +1,6 @@
+group_id,group_name,parish_id,district_id,formation_date,chairperson_name,chairperson_phone,total_members,status
+G001,Green Valley Farmers,P001,D001,2023-02-20,John Okello,0701234567,15,Active
+G002,Nakasero Progressive,P001,D001,2023-03-05,Mary Kiwanuka,0702345678,18,Active
+G003,Central Cooperative,P002,D001,2023-02-25,Peter Mwebe,0703456789,20,Active
+G004,Nateete Harvesters,P003,D002,2023-03-10,Grace Ssebagala,0704567890,16,Active
+G005,Busega United,P004,D002,2023-03-15,David Mukasa,0705678901,17,Active

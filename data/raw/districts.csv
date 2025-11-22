@@ -1,0 +1,9 @@
+district_id,district_name,region,population,creation_date
+D001,Kampala,Central,1659600,2023-01-15
+D002,Wakiso,Central,2016876,2023-01-15
+D003,Mukono,Eastern,558100,2023-01-15
+D004,Jinja,Eastern,431000,2023-01-15
+D005,Soroti,Northern,634000,2023-01-15
+D006,Gulu,Northern,500000,2023-01-15
+D007,Mbarara,Western,428600,2023-01-15
+D008,Kabale,Western,386000,2023-01-15

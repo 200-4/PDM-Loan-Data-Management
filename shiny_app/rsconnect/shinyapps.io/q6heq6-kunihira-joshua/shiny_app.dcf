@@ -1,0 +1,12 @@
+name: shiny_app
+title: shiny_app
+username: q6heq6-kunihira-joshua
+account: q6heq6-kunihira-joshua
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16144171
+bundleId: 11216667
+url: https://q6heq6-kunihira-joshua.shinyapps.io/shiny_app/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

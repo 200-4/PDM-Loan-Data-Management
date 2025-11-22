@@ -1,0 +1,7 @@
+farmer_id,farmer_name,age,gender,group_id,parish_id,district_id,phone_number,date_registered,status
+F001,Alice Nakamatte,45,Female,G001,P001,D001,0701111111,2023-03-01,Active
+F002,George Ssekiziyivu,52,Male,G001,P001,D001,0701111112,2023-03-01,Active
+F003,Nancy Nakabugo,38,Female,G001,P001,D001,0701111113,2023-03-05,Active
+F004,Charles Okafor,48,Male,G002,P001,D001,0701111114,2023-03-10,Active
+F005,Margaret Byaruhanga,41,Female,G002,P001,D001,0701111115,2023-03-10,Active
+F006,Peter Nsubuga,55,Male,G003,P002,D001,0702111116,2023-03-15,Active

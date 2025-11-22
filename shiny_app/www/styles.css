@@ -1,0 +1,102 @@
+/* Custom css for PDM System */
+/*Main header styling */
+.main-header .logo{
+  font-weight: bold;
+  font-size: 18px;
+}
+/*value box enhancement*/
+.small-box {
+  border-radius: 5px;
+}
+.small-box .icon {
+  top: 10px;
+}
+
+/*Button styling*/
+.btn-primary {
+  background-color: #2E86AB;
+  border-color: #2E86AB;
+  
+}
+.btn-success {
+  background-color: #28a745;
+  border-color: #28a745;
+}
+.btn-info {
+  background-color: #17a2b8;
+  border-color: #17a2b8;
+}
+
+/*Box header styling*/
+.box-header {
+  font-weight: bold;
+}
+
+/*Table styling*/
+.dataTables_wrapper {
+  font-size: 14px;
+}
+/*Dashboard styling*/
+#disbursement_trend_plot,
+#district_repatment_plot,
+#loan_status_plot{
+  height: 300px !important;
+}
+/*Form styling*/
+.form-control {
+  border-radius: 4px;
+}
+.selectize-input {
+  border-radius: 4px;
+}
+
+/*Notification styling*/
+.shiny-notification {
+  position: fixed;
+  top: 50px;
+  right: 50px;
+  background-color: #333;
+  color: white;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

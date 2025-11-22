@@ -1,0 +1,9 @@
+parish_id,parish_name,district_id,total_farmers,total_groups,creation_date
+P001,Nakasero,D001,45,3,2023-02-10
+P002,Kampala Central,D001,52,4,2023-02-10
+P003,Nateete,D002,38,2,2023-02-15
+P004,Busega,D002,41,3,2023-02-15
+P005,Seeta,D003,35,2,2023-03-01
+P006,Mukono Town,D003,48,3,2023-03-01
+P007,Nile View,D004,42,3,2023-03-05
+P008,Jinja City,D004,39,2,2023-03-05
