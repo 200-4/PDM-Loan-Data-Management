@@ -1,7 +1,7 @@
 # PDM Farmer Loan Management System
 
 A shiny-based web application for managing farmer loans under the Parish Development Model (PDM) initiative
-![PDM_SYSTEM_IMAGE](Images/PDM_USER_FLOW.jpg)
+![PDM_SYSTEM_IMAGE](Images/PDM-USER_FLOW.jpg)
 
 ## Overview
 This system allows the ministry of Agriculture to record,manage,and analyze PDM Farmer loan data. It supports operations such as farmer registration,loan disbursement,repayment recording,
